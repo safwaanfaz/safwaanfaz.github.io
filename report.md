@@ -1,0 +1,1 @@
+In this assignment I have initialized a git repository, made 2 commits, created and managed a branch, included a special commit and deployed the index.html to github pages.
